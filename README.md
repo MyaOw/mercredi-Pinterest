@@ -9,4 +9,4 @@ Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les c
 Dans votre console, lancez les instructions suivantes :<br/>
 `bundle install`<br/>
 `rails db:migrate`<br/>
-`rails db:seeds`
+`rails db:seed`
